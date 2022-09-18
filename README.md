@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+### My research area is about Human-Computer Interaction based on Computer Vision Technology.
+### Feel free to contact me if you are interested in me.
 
 ![ChanHyukLee GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChanHyuk&count_private=true)
 
