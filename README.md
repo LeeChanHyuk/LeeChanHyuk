@@ -8,6 +8,8 @@
  
   <a href="https://leechanhyuk.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=plastic&logo=Velog&logoColor=FFFFFF"/></a>
   <a href="https://www.linkedin.com/in/chanhyuk-lee-884569213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=plastic&logo=LinkedIn&logoColor=0A66C2"/></a>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChanHyuk)](https://github.com/LeeChanHyuk/LeeChanHyuk)
 
 <!--
 **LeeChanHyuk/LeeChanHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
